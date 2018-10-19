@@ -3,7 +3,7 @@
 ### Introdução
 
 Este guia tem a finalidade de propor um padrão para as mensagens de commit nos 
-projetos do [Melhores Diaristas](https://www.melhoresdiaristas.com).
+projetos do [Melhores Diaristas](https://www.melhoresdiaristas.com.br).
 
 É fortemente baseado (pra não dizer tradução livre) nos guias de estilo de 
 commits utilizados em grandes projetos opensource, incluindo o Linux Kernel.
